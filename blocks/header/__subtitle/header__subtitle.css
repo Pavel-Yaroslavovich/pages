@@ -1,0 +1,9 @@
+.header__subtitle {
+  max-width: 562px;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-family: "Inter";
+  font-size: 18px;
+  line-height: 28px;
+  color: #b4c7e7;
+}

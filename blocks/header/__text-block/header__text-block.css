@@ -1,0 +1,7 @@
+.header__text-block {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding-bottom: 247px;
+  color: #ffffff;
+}

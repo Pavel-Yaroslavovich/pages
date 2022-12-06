@@ -1,0 +1,13 @@
+.logo {
+  background-image: url("../../images/logo.svg");
+  background-repeat: no-repeat;
+}
+
+.logo::after {
+  content: "Pages";
+  font-family: "Arial", "sans-serif";
+  color: #f5f8fc;
+  font-size: 25px;
+  margin-left: 30px;
+  margin-right: 37px;
+}

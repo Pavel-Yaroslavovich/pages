@@ -1,0 +1,13 @@
+.header__item-link {
+  font-family: "Inter";
+  font-size: 17px;
+  line-height: 26px;
+  letter-spacing: 0.17px;
+  text-decoration: none;
+  margin-right: 47px;
+  color: #f6f8fc;
+}
+
+.header__item-link:hover {
+  color: #ffca42;
+}

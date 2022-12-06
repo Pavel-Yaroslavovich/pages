@@ -1,0 +1,9 @@
+.header__title {
+  max-width: 512px;
+  margin: 0px 152px 24px 0px;
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 78px;
+  letter-spacing: 1.3px;
+}

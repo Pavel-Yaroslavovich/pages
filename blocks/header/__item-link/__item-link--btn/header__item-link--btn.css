@@ -1,0 +1,12 @@
+.header__item-link--btn {
+  padding: 18px 52px;
+  margin-left: 51px;
+  margin-right: 0;
+  text-decoration: none;
+  color: #1b3764;
+  background: #ffca42;
+}
+
+.header__item-link--btn:hover {
+  color: #1b3764;
+}

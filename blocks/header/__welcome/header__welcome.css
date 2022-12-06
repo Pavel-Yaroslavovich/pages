@@ -1,0 +1,9 @@
+.header__welcome {
+  font-family: "Cardo";
+  margin-top: 147px;
+  margin-bottom: 15px;
+  font-size: 21px;
+  line-height: 36px;
+  letter-spacing: 1.2px;
+  text-transform: capitalize;
+}
