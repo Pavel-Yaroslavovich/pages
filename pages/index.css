@@ -23,4 +23,12 @@
 @import url(../blocks/header/__link-text/header__link-text.css);
 @import url(../blocks/header/__link-btn/header__link-btn.css);
 @import url(../blocks/header/__free-demo/header__free-demo.css);
-@import url();
+@import url(../blocks/header/__rating/header__rating.css);
+@import url(../blocks/header/__pages-block/header__pages-block.css);
+@import url(../blocks/header/__pages-name/header__pages-name.css);
+@import url(../blocks/header/__pages-amount/header__pages-amount.css);
+@import url(../blocks/header/__length-block/header__length-block.css);
+@import url(../blocks/header/__length-name/header__length-name.css);
+@import url(../blocks/header/__length-amount/header__length-amount.css);
+@import url(../blocks/header/__rating-name/header__rating-name.css);
+@import url(../blocks/header/__rating-amount/header__rating-amount.css);

@@ -1,0 +1,18 @@
+.header__rating-name {
+  font-family: "Cardo";
+  font-size: 24px;
+  line-height: 29px;
+  margin-top: 0;
+  margin-bottom: 12px;
+  letter-spacing: 0.48px;
+}
+
+.header__rating-name::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #ffca42;
+  border-radius: 100px;
+  margin-right: 10px;
+}
