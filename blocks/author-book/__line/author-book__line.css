@@ -1,0 +1,8 @@
+.author-book__line {
+  position: absolute;
+  top: 32%;
+  width: 50px;
+  left: 49%;
+  border-top: 0;
+  border-bottom: 3px solid #ffca42;
+}
