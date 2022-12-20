@@ -1,0 +1,12 @@
+.author-book__order {
+  display: inline-block;
+  font-family: "Cardo";
+  font-size: 19px;
+  line-height: 28px;
+  text-decoration: none;
+  letter-spacing: 0.38px;
+  border: 2px solid #ffca42;
+  border-radius: 0px;
+  padding: 19px 52px;
+  color: #1b3764;
+}

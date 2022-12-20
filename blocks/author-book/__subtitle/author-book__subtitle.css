@@ -1,0 +1,10 @@
+.author-book__subtitle {
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  margin-top: 0;
+  margin-bottom: 7px;
+  letter-spacing: 0.32px;
+  color: #1b3764;
+}

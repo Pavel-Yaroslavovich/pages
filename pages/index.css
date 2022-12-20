@@ -37,7 +37,14 @@
 @import url(../blocks/author-book/author-book.css);
 @import url(../blocks/author-book/__title/author-book__title.css);
 @import url(../blocks/author-book/__line/author-book__line.css);
-@import url();
-@import url();
+@import url(../blocks/author-book/__book-cards/author-book__book-cards.css);
+@import url(../blocks/author-book/__atomic-card/author-book__atomic-card.css);
+@import url(../blocks/author-book/__atomic-img/author-book__atomic-img.css);
+@import url(../blocks/author-book/__atomic-text/author-book__atomic-text.css);
+@import url(../blocks/author-book/__subtitle/author-book__subtitle.css);
+@import url(../blocks/author-book/__price/author-book__price.css);
+@import url(../blocks/author-book/__text/author-book__text.css);
+@import url(../blocks/author-book/__printed/author-book__printed.css);
+@import url(../blocks/author-book/__order/author-book__order.css);
 @import url();
 @import url();

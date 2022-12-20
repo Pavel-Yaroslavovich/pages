@@ -1,0 +1,18 @@
+.author-book__printed {
+  font-family: "Cardo";
+  font-size: 24px;
+  line-height: 29px;
+  margin-top: 0;
+  margin-bottom: 27px;
+  color: #1b3764;
+}
+
+.author-book__printed::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #ffca42;
+  border-radius: 100px;
+  margin-right: 10px;
+}
