@@ -1,0 +1,10 @@
+.about-author__title {
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
+  margin-top: 0;
+  margin-bottom: 59px;
+  text-transform: capitalize;
+  color: #1b3764;
+}

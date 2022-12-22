@@ -1,0 +1,8 @@
+.about-author__line {
+  position: absolute;
+  top: 10%;
+  width: 50px;
+  left: 52%;
+  border-top: 0;
+  border-bottom: 3px solid #ffca42;
+}

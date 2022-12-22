@@ -46,5 +46,14 @@
 @import url(../blocks/author-book/__text/author-book__text.css);
 @import url(../blocks/author-book/__printed/author-book__printed.css);
 @import url(../blocks/author-book/__order/author-book__order.css);
+
+/*===about-author===*/
+@import url(../blocks/about-author/about-author.css);
+@import url(../blocks/about-author/__container/about-author__container.css);
+@import url(../blocks/about-author/__photo/about-author__photo.css);
+@import url(../blocks/about-author/__photo-img/about-author__photo-img.css);
+@import url(../blocks/about-author/__title/about-author__title.css);
+@import url(../blocks/about-author/__line/about-author__line.css);
+@import url(../blocks/about-author/__text/about-author__text.css);
 @import url();
 @import url();
