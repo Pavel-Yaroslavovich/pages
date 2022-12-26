@@ -1,0 +1,9 @@
+.about-author__books-published {
+  border-right: 1px solid #ffca42;
+  margin-right: 25px;
+}
+
+.about-author__books-published:last-child {
+  border-right: none;
+  margin-right: 0;
+}

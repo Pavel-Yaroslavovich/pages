@@ -55,5 +55,17 @@
 @import url(../blocks/about-author/__title/about-author__title.css);
 @import url(../blocks/about-author/__line/about-author__line.css);
 @import url(../blocks/about-author/__text/about-author__text.css);
-@import url();
+@import url(../blocks/about-author/__rating/about-author__rating.css);
+@import url(../blocks/about-author/__books-published/about-author__books-published.css);
+@import url(../blocks/about-author/__number-published/about-author__number-published.css);
+@import url(../blocks/about-author/__published/about-author__published.css);
+
+/*===trusted===*/
+@import url(../blocks/trusted/trusted.css);
+@import url(../blocks/trusted/__title/trusted__title.css);
+@import url(../blocks/trusted/__line/trusted__line.css);
+@import url(../blocks/trusted/__partners/trusted__partners.css);
+@import url(../blocks/trusted/__partners-block/trusted__partners-block.css);
+@import url(../blocks/trusted/__subtitle/trusted__subtitle.css);
+@import url(../blocks/trusted/__text/trusted__text.css);
 @import url();

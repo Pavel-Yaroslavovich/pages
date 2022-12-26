@@ -1,7 +1,9 @@
 .header__line {
   position: absolute;
-  top: 18%;
+  top: 19%;
   width: 30px;
   border-top: 0;
   border-bottom: 1px solid #ffca42;
+  margin-top: 0;
+  margin-bottom: 0;
 }

@@ -1,0 +1,10 @@
+.trusted__partners-block {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 16px;
+}
+
+.trusted__partners-block:last-child {
+  margin-right: 0;
+}

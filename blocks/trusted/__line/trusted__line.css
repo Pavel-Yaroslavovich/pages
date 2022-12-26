@@ -1,8 +1,8 @@
-.author-book__line {
+.trusted__line {
   position: absolute;
-  top: 27%;
+  top: 30%;
   width: 50px;
-  left: 49%;
+  left: 48%;
   border-top: 0;
   border-bottom: 3px solid #ffca42;
   margin-top: 0;
