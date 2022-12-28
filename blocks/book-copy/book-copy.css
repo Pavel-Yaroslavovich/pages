@@ -1,0 +1,11 @@
+.book-copy {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 70px 70px;
+  color: #b4c7e7;
+  background: #1b3764;
+}

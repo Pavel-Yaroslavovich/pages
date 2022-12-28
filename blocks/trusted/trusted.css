@@ -1,6 +1,7 @@
 .trusted {
+  box-sizing: border-box;
   position: relative;
-  max-width: 1300px;
+  max-width: 1440px;
   margin: 0 auto;
   padding: 110px 70px 129px;
   background: #ffffff;

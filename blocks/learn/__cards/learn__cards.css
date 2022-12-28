@@ -1,0 +1,6 @@
+.learn__cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 666px;
+}

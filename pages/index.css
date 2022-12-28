@@ -32,6 +32,7 @@
 @import url(../blocks/header/__length-amount/header__length-amount.css);
 @import url(../blocks/header/__rating-name/header__rating-name.css);
 @import url(../blocks/header/__rating-amount/header__rating-amount.css);
+@import url(../blocks/header/__dark-img/header__dark-img.css);
 
 /*===author-book===*/
 @import url(../blocks/author-book/author-book.css);
@@ -68,4 +69,24 @@
 @import url(../blocks/trusted/__partners-block/trusted__partners-block.css);
 @import url(../blocks/trusted/__subtitle/trusted__subtitle.css);
 @import url(../blocks/trusted/__text/trusted__text.css);
+
+/*===book-copy===*/
+@import url(../blocks/book-copy/book-copy.css);
+@import url(../blocks/book-copy/__text-block/book-copy__text-block.css);
+@import url(../blocks/book-copy/__title/book-copy__title.css);
+@import url(../blocks/book-copy/__line/book-copy__line.css);
+@import url(../blocks/book-copy/__text/book-copy__text.css);
+@import url(../blocks/book-copy/__link/book-copy__link.css);
+
+/*===learn===*/
+@import url(../blocks/learn/learn.css);
+@import url(../blocks/learn/__title/learn__title.css);
+@import url(../blocks/learn/__line/learn__line.css);
+@import url(../blocks/learn/__block/learn__block.css);
+@import url(../blocks/learn/__cards/learn__cards.css);
+@import url(../blocks/learn/__card/learn__card.css);
+@import url(../blocks/learn/__number/learn__number.css);
+@import url(../blocks/learn/__card-text/learn__card-text.css);
+@import url();
+@import url();
 @import url();

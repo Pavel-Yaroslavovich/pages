@@ -1,0 +1,9 @@
+.book-copy__line {
+  position: absolute;
+  top: 46%;
+  width: 50px;
+  border-top: 0;
+  border-bottom: 3px solid #ffca42;
+  margin-top: 0;
+  margin-bottom: 0;
+}
