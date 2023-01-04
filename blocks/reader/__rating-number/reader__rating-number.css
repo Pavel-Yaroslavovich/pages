@@ -1,0 +1,13 @@
+.reader__rating-number {
+  font-family: "Cardo";
+  font-size: 22px;
+  line-height: 26px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #1b3764;
+}
+
+.reader__rating-number::before {
+  content: url("../../../images/reader/readerCirclesNumber.svg");
+  margin-right: 10px;
+}

@@ -1,0 +1,6 @@
+.knowledge__card {
+  box-sizing: border-box;
+  padding: 42px 62px 34px 40px;
+  background: #ffffff;
+  max-width: 635px;
+}

@@ -1,0 +1,8 @@
+.articles__card {
+  max-width: 420px;
+  margin-right: 20px;
+}
+
+.articles__card:last-child {
+  margin-right: 0;
+}

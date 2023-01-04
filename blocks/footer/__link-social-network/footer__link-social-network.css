@@ -1,0 +1,12 @@
+.footer__link-social-network {
+  box-sizing: border-box;
+  margin-right: 10px;
+  width: 55px;
+  height: 55px;
+  padding: 20px;
+  border: 1px solid #ffca42;
+}
+
+.footer__link-social-network:last-child {
+  margin-right: 0;
+}

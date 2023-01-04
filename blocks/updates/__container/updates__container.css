@@ -1,0 +1,7 @@
+.updates__container {
+  position: relative;
+  background: #ffca42;
+  box-shadow: 0px 0px 19px rgba(0, 0, 0, 0.18);
+  border-radius: 5px;
+  padding: 100px 150px 94px;
+}

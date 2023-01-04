@@ -1,0 +1,13 @@
+.updates__inp {
+  box-sizing: border-box;
+  width: 653px;
+  height: 70px;
+  margin-right: 16px;
+  padding: 19px 0px 19px 39px;
+}
+
+.updates__inp::placeholder {
+  font-family: "Inter";
+  font-size: 18px;
+  color: #b4c7e7;
+}

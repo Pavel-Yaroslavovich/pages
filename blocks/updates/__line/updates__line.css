@@ -1,0 +1,10 @@
+.updates__line {
+  position: absolute;
+  top: 37%;
+  width: 50px;
+  left: 48%;
+  border-top: 0;
+  border-bottom: 3px solid #1b3764;
+  margin-top: 0;
+  margin-bottom: 0;
+}

@@ -1,0 +1,11 @@
+.updates__link {
+  font-family: "Inter";
+  font-size: 18px;
+  line-height: 31px;
+  letter-spacing: 0.18px;
+  padding: 19px 120px;
+  text-decoration: none;
+  color: #ffffff;
+  background: #1b3764;
+  border: 2px solid #1b3764;
+}

@@ -1,0 +1,10 @@
+.articles__line {
+  position: absolute;
+  top: 18%;
+  width: 50px;
+  left: 47%;
+  border-top: 0;
+  border-bottom: 3px solid #ffca42;
+  margin-top: 0;
+  margin-bottom: 0;
+}

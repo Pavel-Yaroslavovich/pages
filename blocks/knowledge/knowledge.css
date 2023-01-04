@@ -1,0 +1,8 @@
+.knowledge {
+  position: relative;
+  box-sizing: border-box;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 116px 70px 130px;
+  background: #f5f8fc;
+}

@@ -14,13 +14,13 @@
           <div class="header__logo-link">
             <div class="logo"></div>
             <a class="header__link" href="https://www.facebook.com/">
-              <img src="./images/f.svg" alt="facebook" />
+              <img src="./images/header/f.svg" alt="facebook" />
             </a>
             <a class="header__link" href="https://www.twitter.com">
-              <img src="./images/twitter.svg" alt="twitter" />
+              <img src="./images/header/twitter.svg" alt="twitter" />
             </a>
             <a class="header__link" href="https://www.instagram.com">
-              <img src="./images/in.svg" alt="Instagram" />
+              <img src="./images/header/in.svg" alt="Instagram" />
             </a>
           </div>
           <nav class="header__items">
@@ -247,7 +247,7 @@
         <hr class="knowledge__line" />
         <div class="knowledge__cards">
           <div class="knowledge__card">
-            <h4 class="subtitle">Chapter-1 Get Started Intro</h4>
+            <h4 class="knowledge__subtitle">Chapter-1 Get Started Intro</h4>
             <p class="knowledge__card-text">
               You can double your knowledge by reading this ever needed book
               that can last a lifetime.
@@ -257,63 +257,63 @@
                 Pages:
                 <span class="knowledge__card-pages-number">106pages</span>
               </p>
-              <p class="knowledge__card-length">
+              <p class="knowledge__card-pages">
                 Length:
-                <span class="knowledge__card-length-hours">2 Hours</span>
+                <span class="knowledge__card-pages-number">2 Hours</span>
               </p>
             </div>
           </div>
 
           <div class="knowledge__card">
-            <h4 class="subtitle">Chapter-2 The Roman Culture</h4>
+            <h4 class="knowledge__subtitle">Chapter-2 The Roman Culture</h4>
             <p class="knowledge__card-text">
               It will help to improve your life career with the perfect and
               needed knowledge about your life.
             </p>
-            <div>
+            <div class="knowledge__pages-length">
               <p class="knowledge__card-pages">
                 Pages:
                 <span class="knowledge__card-pages-number">180pages</span>
               </p>
-              <p class="knowledge__card-length">
+              <p class="knowledge__card-pages">
                 Length:
-                <span class="knowledge__card-length-hours">3 Hours</span>
+                <span class="knowledge__card-pages-number">3 Hours</span>
               </p>
             </div>
           </div>
 
           <div class="knowledge__card">
-            <h4 class="subtitle">Chapter-3 How They Servived</h4>
+            <h4 class="knowledge__subtitle">Chapter-3 How They Servived</h4>
             <p class="knowledge__card-text">
               We wanted to create an easy, convenient way for you to get your
               books & support.
             </p>
-            <div>
+            <div class="knowledge__pages-length">
               <p class="knowledge__card-pages">
                 Pages:
                 <span class="knowledge__card-pages-number">250pages</span>
               </p>
-              <p class="knowledge__card-length">
+              <p class="knowledge__card-pages">
                 Length:
-                <span class="knowledge__card-length-hours">4 Hours</span>
+                <span class="knowledge__card-pages-number">4 Hours</span>
               </p>
             </div>
           </div>
 
           <div class="knowledge__card">
-            <h4 class="subtitle">Chapter-4 The End Of Romans</h4>
+            <h4 class="knowledge__subtitle">Chapter-4 The End Of Romans</h4>
             <p class="knowledge__card-text">
               Promote your book via Pages shop to support your writing & reading
               career.
             </p>
-            <div>
+            <div class="knowledge__pages-length">
               <p class="knowledge__card-pages">
                 Pages:
                 <span class="knowledge__card-pages-number">175pages</span>
               </p>
-              <p class="knowledge__card-length">
+              <p class="knowledge__card-pages">
                 Length:
-                <span class="knowledge__card-length-hours">3 Hours</span>
+                <span class="knowledge__card-pages-number">3 Hours</span>
               </p>
             </div>
           </div>
@@ -321,28 +321,41 @@
         <a class="knowledge__link" href="#">Start a 15-Days Free Trail</a>
         <p class="knowledge__text">
           Short description about each chapter
-          <span class="knowledge__questions">Have any questions?</span>Contact
+          <span class="knowledge__questions">Have any questions?</span> Contact
           us
         </p>
       </section>
       <section class="reader">
         <div class="reader__text-block">
           <h2 class="reader__title">Words From Our Readers</h2>
+          <hr class="reader__line" />
           <p class="reader__text">
             We believe that bookstores are essential to a healthy culture.
-            They’re where authors can connect with readers, where we discover
+            They're where authors can connect with readers, where we discover
             new writers, where children get hooked on the thrill of reading that
             can last a lifetime.
           </p>
-          <div class="reader__indicators">
-            <span class="reader__rating-number">(4.8/5)</span>
+          <div>
+            <p class="reader__rating-number">(4.8/5)</p>
+            <p class="reader__rating">Overall Customer Ratings</p>
           </div>
-          <p class="reader__rating">Overall Customer Ratings</p>
         </div>
         <div class="reader__data-cards">
-          <img src="#" alt="data cards James Williams" />
-          <img src="#" alt="data cards Chris Adams" />
-          <img src="#" alt="data cards Angeline Flora" />
+          <img
+            src="./images/reader/JamesWilliams.png"
+            alt="data cards James Williams"
+          />
+          <img
+            src="./images/reader/ChrisAdams.png"
+            alt="data cards Chris Adams"
+          />
+        </div>
+        <div>
+          <img
+            class="reader__img-angeline"
+            src="./images/reader/AngelineFlora.png"
+            alt="data cards Angeline Flora"
+          />
         </div>
       </section>
       <section class="articles">
@@ -350,88 +363,154 @@
         <hr class="articles__line" />
         <div class="articles__cards">
           <div class="articles__card">
-            <img src="#" alt="girl at the table looking at the phone" />
-            <h3 class="subtitle">Significant reading has more info number</h3>
-            <p class="articles__card-text">
-              Override the digital divide with additional clickthroughs from
-              DevOps for real-time schemas.
-            </p>
-            <div class="articles__date-year">
-              <p class="articles__further">Readmore</p>
-              <time class="articles__date-month-year">October 6, 2021</time>
+            <img
+              class="articles__card-img"
+              src="./images/articles/articles_1.png"
+              alt="girl at the table looking at the phone"
+            />
+            <div class="articles__container-text">
+              <h3 class="articles__subtitle">
+                Significant reading has more info number
+              </h3>
+              <p class="articles__card-text">
+                Override the digital divide with additional clickthroughs from
+                DevOps for real-time schemas.
+              </p>
+              <div class="articles__date-year">
+                <a href="#" class="articles__further">Readmore</a>
+                <time class="articles__date-month-year">October 6, 2021</time>
+              </div>
+            </div>
+          </div>
+          <div class="articles__card">
+            <img
+              class="articles__card-img"
+              src="./images/articles/articles_2.png"
+              alt="girl at the table looking at the phone"
+            />
+            <div class="articles__container-text">
+              <h3 class="articles__subtitle">
+                Many variations of pass majority have suffered
+              </h3>
+              <p class="articles__card-text">
+                Capitalize on low-hanging fruit to identify a ballpark
+                value-added activity to beta test.
+              </p>
+              <div class="articles__date-year">
+                <p class="articles__further">Readmore</p>
+                <time class="articles__date-month-year">October 6, 2021</time>
+              </div>
+            </div>
+          </div>
+          <div class="articles__card">
+            <img
+              class="articles__card-img"
+              src="./images/articles/articles_3.png"
+              alt="girl at the table looking at the phone"
+            />
+            <div class="articles__container-text">
+              <h3 class="articles__subtitle">
+                Words which don’t look even slightly believable
+              </h3>
+              <p class="articles__card-text">
+                Podcasting operational change management inside of workflows to
+                establish a framework.
+              </p>
+              <div class="articles__date-year">
+                <p class="articles__further">Readmore</p>
+                <time class="articles__date-month-year">October 6, 2021</time>
+              </div>
             </div>
           </div>
         </div>
       </section>
       <section class="updates">
-        <h2 class="updates__title">Get The Best Updates</h2>
-        <hr class="updates__line" />
-        <p class="updates__text">
-          Subscribe with your mail id to know the current update in book edition
-          at your fingertip with in a minute.
-        </p>
-        <div class="updates__inp-link">
-          <input type="text" placeholder="Your Email ID..." />
-          <a class="updates__link" href="#">Subscribe</a>
+        <div class="updates__container">
+          <h2 class="updates__title">Get The Best Updates</h2>
+          <hr class="updates__line" />
+          <p class="updates__text">
+            Subscribe with your mail id to know the current update in book
+            edition at your fingertip with in a minute.
+          </p>
+          <div class="updates__inp-link">
+            <input
+              class="updates__inp"
+              type="text"
+              placeholder="Your Email ID..."
+            />
+            <a class="updates__link" href="#">Subscribe</a>
+          </div>
         </div>
       </section>
       <footer class="footer">
         <div class="footer__container">
-          <div class="footer__page">
+          <div>
             <div class="logo"></div>
-            <a class="header__link" href="https://www.facebook.com/">
-              <img src="./images/f.svg" alt="facebook" />
-            </a>
-            <a class="header__link" href="https://www.twitter.com">
-              <img src="./images/twitter.svg" alt="twitter" />
-            </a>
-            <a class="header__link" href="https://www.instagram.com">
-              <img src="./images/in.svg" alt="Instagram" />
-            </a>
+            <div class="footer__social-networks">
+              <a
+                class="footer__link-social-network"
+                href="https://www.facebook.com/"
+              >
+                <img src="./images/footer/facebook.svg" alt="facebook" />
+              </a>
+              <a
+                class="footer__link-social-network"
+                href="https://www.twitter.com"
+              >
+                <img src="./images/footer/twitter.svg" alt="twitter" />
+              </a>
+              <a
+                class="footer__link-social-network"
+                href="https://www.instagram.com"
+              >
+                <img src="./images/footer/linkedin.svg" alt="linkedin" />
+              </a>
+              <a
+                class="footer__link-social-network"
+                href="https://www.instagram.com"
+              >
+                <img src="./images/footer/instagram.svg" alt="instagram" />
+              </a>
+            </div>
           </div>
           <div class="footer__explore">
             <h4 class="title">Explore</h4>
-            <ul class="footer__list">
-              <li class="footer__list-link">Home</li>
-              <li class="footer__list-link">About</li>
-              <li class="footer__list-link">Articles</li>
-              <li class="footer__list-link">Our Store</li>
-              <li class="footer__list-link">Contact Us</li>
-            </ul>
-          </div>
-          <div class="footer__explore">
-            <h4 class="title">Utility Pages</h4>
             <ul class="footer__nav">
-              <li class="footer__list">Style Guide</li>
-              <li class="footer__list">404 Not Found</li>
-              <li class="footer__list">Password Protected</li>
-              <li class="footer__list">Licenses</li>
-              <li class="footer__list">Changelog</li>
+              <li class="footer__list">Home</li>
+              <li class="footer__list">About</li>
+              <li class="footer__list">Articles</li>
+              <li class="footer__list">Our Store</li>
+              <li class="footer__list">Contact Us</li>
             </ul>
           </div>
-
+          <div class="footer__utility">
+            <h4 class="title">Utility Pages</h4>
+            <ul class="footer__nav-utility">
+              <li class="footer__list-utility">Style Guide</li>
+              <li class="footer__list-utility">404 Not Found</li>
+              <li class="footer__list-utility">Password Protected</li>
+              <li class="footer__list-utility">Licenses</li>
+              <li class="footer__list-utility">Changelog</li>
+            </ul>
+          </div>
           <div class="footer__touch">
-            <h4 class="title">Keep in Touch</h4>
+            <h4 class="title title_indent-footer">Keep in Touch</h4>
             <address class="footer__address">
-              <p>
-                Address:
-                <span class="footer__address-text">
+              <div class="footer__street-block">
+                <p class="footer__street">Address:</p>
+                <p class="footer__address-text">
                   24A Kingston St, Los Vegas NC 28202, USA.
-                </span>
-              </p>
-              <p>
+                </p>
+              </div>
+              <p class="footer__mail">
                 Mail:
-                <span class="footer__address-tex">support@pages.com</span>
+                <span class="footer__address-mail">support@pages.com</span>
               </p>
-              <p>
+              <p class="footer__phone">
                 Phone:
-                <span class="footer__address-tex">(+22) 123 - 4567 - 900</span>
+                <span class="footer__number-phone">(+22) 123 - 4567 - 900</span>
               </p>
             </address>
-          </div>
-          <div class="footer__block-address">
-            <span class="footer__text">© Drafted by</span> VictorFlow -
-            <span class="footer__text">Powered by</span> Webflow.
           </div>
         </div>
       </footer>

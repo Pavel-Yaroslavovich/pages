@@ -1,0 +1,7 @@
+.footer__nav {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-image: url("../../../images/footerVector.svg");
+  padding-left: 0;
+}

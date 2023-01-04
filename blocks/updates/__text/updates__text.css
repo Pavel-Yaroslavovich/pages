@@ -1,0 +1,10 @@
+.updates__text {
+  max-width: 550px;
+  margin: 0 auto;
+  font-family: "Inter";
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  margin-bottom: 49px;
+  color: #1b3764;
+}

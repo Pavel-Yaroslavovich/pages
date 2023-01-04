@@ -1,0 +1,11 @@
+.reader__title {
+  display: inline-block;
+  max-width: 329px;
+  font-family: "Cardo";
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 50px;
+  margin-top: 0px;
+  margin-bottom: 59px;
+  color: #1b3764;
+}

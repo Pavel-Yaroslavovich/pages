@@ -1,0 +1,20 @@
+.footer__list {
+  font-family: "Inter";
+  font-size: 18px;
+  line-height: 31px;
+  letter-spacing: 0.18px;
+  color: #b4c7e7;
+  margin-left: 68px;
+}
+
+.footer__list::before {
+  content: url("../../../images/footerVector.svg");
+  position: absolute;
+  left: 25%;
+}
+
+.footer__list::after {
+  content: url("../../../images/footerVector.svg");
+  position: absolute;
+  left: 21.5%;
+}

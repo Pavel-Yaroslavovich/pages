@@ -1,0 +1,7 @@
+.knowledge__cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 59px;
+  gap: 30px;
+}

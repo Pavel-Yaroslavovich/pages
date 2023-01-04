@@ -1,0 +1,11 @@
+.footer__address-text {
+  max-width: 234px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 17px;
+  line-height: 27px;
+  margin-left: 28px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #b4c7e7;
+}

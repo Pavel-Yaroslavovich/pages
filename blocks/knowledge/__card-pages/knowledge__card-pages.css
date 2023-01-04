@@ -1,0 +1,18 @@
+.knowledge__card-pages {
+  font-family: "Cardo";
+  font-size: 22px;
+  line-height: 31px;
+  margin: 0px 10px 0px 0px;
+  width: 233px;
+  color: #1b3764;
+}
+
+.knowledge__card-pages::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #ffca42;
+  border-radius: 100px;
+  margin-right: 10px;
+}
